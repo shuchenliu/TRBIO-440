@@ -2,7 +2,7 @@
 
 ### What
 
-This is a personal repository for TRBIO-420 course homework$^{*}$, taught by Professor Jill Waalen at Scripps Research Institute, Winter 2019.
+This is a personal repository for TRBIO-420 course homework<sup>*</sup>, taught by Professor Jill Waalen at Scripps Research Institute, Winter 2019.
 
 ###### **May contain errors. Answers updated occasionally.*
 
