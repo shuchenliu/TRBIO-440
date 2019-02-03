@@ -1,7 +1,5 @@
 ##  Introduction
 
-----
-
 ### What
 
 This is a personal repository for TRBIO-420 course homework$^{*}$, taught by Professor Jill Waalen at Scripps Research Institute, Winter 2019.
